@@ -1,7 +1,8 @@
 # ElemintOS
 Technically ElementaryOS with the base of Linux Mint
 
-Links: [Install Guide](ElemintOS-Install-Guide/)
+# Links
+[Install Guide](ElemintOS-Install-Guide/)
 
 # What is this project?
 I wanted to try ElementaryOS on my mac once, and felt like it was even more laggy than stock Ubuntu was. I was distrohopping a lot and ended up on Linux Mint upon a friend's suggestion, and thought: "Hm, I wonder how stable Linux Mint would be with Pantheon as DE and lightdm theme..."
