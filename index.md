@@ -4,6 +4,8 @@ Technically ElementaryOS with the base of Linux Mint
 # Links
 [Install Guide](https://github.com/Icycoide/ElemintOS/blob/main/ElemintOS-Install-Guide.md)
 
+If you're interested in failure, check out ElemintOS' [parent project](https://lintine.github.io/XianZaiOS/)
+
 # What is this project?
 I wanted to try ElementaryOS on my mac once, and felt like it was even more laggy than stock Ubuntu was. I was distrohopping a lot and ended up on Linux Mint upon a friend's suggestion, and thought: "Hm, I wonder how stable Linux Mint would be with Pantheon as DE and lightdm theme..."
 
@@ -23,3 +25,6 @@ Well uh, this project isn't really ready yet. But you can dm me on discord (@kev
 # Cool, how can I follow this project?
 Announcements about it will be made on the Icycoide [Discord server](https://discord.gg/3PRMhaBuuT) , on my [Fosstodon](https://fosstodon.org/@kevadesu/) , on the Lintine%Icycoide [Twitter account](https://twitter.com/@Lintine_) (I'm not going to call it X.) or the matrix room for announcements (#icycoide-news:envs.net)
 
+# What are the system requirements?
+Minimum measured/Recommended
+RAM: 
