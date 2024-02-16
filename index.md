@@ -26,5 +26,16 @@ Well uh, this project isn't really ready yet. But you can dm me on discord (@kev
 Announcements about it will be made on the Icycoide [Discord server](https://discord.gg/3PRMhaBuuT) , on my [Fosstodon](https://fosstodon.org/@kevadesu/) , on the Lintine%Icycoide [Twitter account](https://twitter.com/@Lintine_) (I'm not going to call it X.) or the matrix room for announcements (#icycoide-news:envs.net)
 
 # What are the system requirements?
-Minimum measured/Recommended
-RAM: 
+Minimum measured/Minimum official/Recommended
+
+RAM: 2GB/3GB/4GB
+
+Storage: ??GB/15GB/60GB
+
+CPU: x86_64/x86_64/x86_64
+
+Internet: Yes/Yes/Yes
+
+Resolution: 1024x768/1024x768/1024x768
+
+Mouse and Keyboard: Built-in & USB/Built in & USB/Built in & USB (Bluetooth optional but not recommended)
