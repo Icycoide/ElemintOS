@@ -2,7 +2,7 @@
 Technically ElementaryOS with the base of Linux Mint
 
 # Links
-[Install Guide](https://github.com/Icycoide/ElemintOS/blob/main/ElemintOS-Install-Guide)
+[Install Guide](ElemintOS-Install-Guide)
 
 If you're interested in failure, check out ElemintOS' [parent project](https://lintine.github.io/XianZaiOS/)
 
