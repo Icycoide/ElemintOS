@@ -1,10 +1,11 @@
 # Installing ElemintOS
 Normally, the installation process would be straightforward, but I kinda messed up. So you have to follow this guide to install the OS correctly.
 
-## Go through the elementaryOS Initial Setup
+## For ElemintOS 7.1-vc
+### Go through the elementaryOS Initial Setup
 On the live ISO, you will be prompted to choose a language and keyboard layout, enter your username and password etc. Those will only last for the Live ISO. 
 
-## Starting the Installer
+### Starting the Installer
 After you finished, you notice that you will not be able to login due to LightDM then giving you the error "Session exited with code 1". To fix this, we need to switch to a console TTY (by pressing Ctrl + Alt + F#) and log in with the credentials you set during setup.
 You will probably see something like this:
 ```
@@ -35,7 +36,7 @@ $ startx /bin/gnome-shell
 
 When you're in the GNOME Shell, open Activities, search for "Install" and open the Ubiquity installer for ElemintOS. The installation process is actually straightforward, so just follow the steps.
 
-## Fixing LightDM after Installation
+### Fixing LightDM after Installation
 Congratulations! You finished installing ElemintOS! But you still get the same "Session exited with code 1" error. Not to worry, this is easy to fix. Navigate to a console TTY again, log in with the credentials you entered during the **installer**, and run the command: 
 
 ```
@@ -59,6 +60,11 @@ Nothing else, just reboot, or relaunch LightDM. After rebooting, click on the ge
 ```
 $ sudo apt remove (package-name)
 ```
+## For ElemintOS 8 BETA 1-2
+Simply enter Demo mode instead of using the elementaryOS installer, then start the Ubiquity installer instead. This is because after using the elementaryOS installer, the elementaryOS initial setup will fail to start in the installed system in a somewhat unfixable state, as there is no user.
+
+## For ElemintOS 8 BETA 3 and later
+START THE UBIQUITY INSTALLER!!! From the applications menu, instead of using **Install elementary OS**, open **Install ElemintOS 8 Wa** instead to launch the Ubiquity installer, as io.elementary.installer for some reason will fail.
 
 ## Support
 Issues? You can report them in:
