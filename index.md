@@ -1,7 +1,8 @@
 # ElemintOS
 Technically ElementaryOS with the base of Linux Mint
 
-## [↓ Download Torrent](https://github.com/Icycoide/ElemintOS/releases/download/v8-beta.3/elemintos-8-wa-64bit-.iso.torrent)
+## [[↓ Download Torrent]](https://github.com/Icycoide/ElemintOS/releases/download/v8-beta.3/elemintos-8-wa-64bit-.iso.torrent)
+<small> We have received a report of the Torrent having no online peers, thus downloads being dead. We're working to fix this at the moment. While waiting, I'll be temporarily uploading the ISO to the Internet Archive. </small>
 
 # Links
 [Install Guide](ElemintOS-Install-Guide)
@@ -38,3 +39,7 @@ Internet: Yes/Yes/Yes
 Resolution: 1024x768/1024x768/1024x768
 
 Mouse and Keyboard: Built-in & USB/Built in & USB/Built in & USB (Bluetooth optional but not recommended)
+
+
+<a class="button">test</a>
+<button>test</button>
