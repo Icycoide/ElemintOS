@@ -1,9 +1,11 @@
 # ElemintOS
 Technically ElementaryOS with the base of Linux Mint
 
-## [[↓ Download Torrent]](https://github.com/Icycoide/ElemintOS/releases/download/v8-beta.3/elemintos-8-wa-64bit-.iso.torrent)
+## [[↓ Download Torrent]](https://github.com/Icycoide/ElemintOS/releases/download/v8-beta.3/elemintos-8-wa-64bit-BETA3.iso.torrent)
 ## [[↓ Download ISO at InternetArchive]](https://archive.org/download/elemintos-8-wa-64bit-beta3/elemintos-8-wa-64bit-.iso)
-<small> We have received a report of the Torrent having no online peers, thus downloads being dead. We're working to fix this at the moment. While waiting, the ISO will temporarily be hosted at IA. </small>
+<small> ElemintOS 8-Wa Beta 3 </small>
+
+<small> [I] We have received a report of the Torrent having no online peers, thus downloads being dead. We're working to fix this at the moment. While waiting, the ISO will temporarily be hosted at IA. </small>
 
 # Links
 [Install Guide](ElemintOS-Install-Guide)
